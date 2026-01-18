@@ -1,0 +1,26 @@
+[
+    {
+        "id": "gallery_gagosian",
+        "type": "gallery",
+        "businessName": "Gagosian",
+        "email": "info@gagosian.com",
+        "website": "https://gagosian.com",
+        "fullBio": "Gagosian is a global gallery for modern and contemporary art with eighteen exhibition spaces worldwide.",
+        "businessLocation": "New York, NY",
+        "city": "New York",
+        "country": "USA",
+        "text": "Gallery: Gagosian. Bio: Gagosian is a global gallery for modern and contemporary art with eighteen exhibition spaces worldwide. Location: New York, NY."
+    },
+    {
+        "id": "gallery_pace",
+        "type": "gallery",
+        "businessName": "Pace Gallery",
+        "email": "info@pacegallery.com",
+        "website": "https://www.pacegallery.com",
+        "fullBio": "Pace is a leading contemporary art gallery representing many of the most significant international artists and estates.",
+        "businessLocation": "New York, NY",
+        "city": "New York",
+        "country": "USA",
+        "text": "Gallery: Pace Gallery. Bio: Pace is a leading contemporary art gallery representing many of the most significant international artists and estates. Location: New York, NY."
+    }
+]

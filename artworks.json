@@ -1,0 +1,82 @@
+[
+    {
+        "id": "artwork_campbells_soup_cans",
+        "type": "artwork",
+        "title": "Campbell's Soup Cans",
+        "artist": "Andy Warhol",
+        "year": 1962,
+        "medium": "Synthetic polymer paint on canvas",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Warhol-Campbell_Soup-1-vept-h.jpg",
+        "text": "Artwork: Campbell's Soup Cans. Artist: Andy Warhol. Year: 1962. Medium: Synthetic polymer paint on canvas. Description: A famous pop art series consisting of 32 canvases."
+    },
+    {
+        "id": "artwork_marilyn_diptych",
+        "type": "artwork",
+        "title": "Marilyn Diptych",
+        "artist": "Andy Warhol",
+        "year": 1962,
+        "medium": "Silkscreen on canvas",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/df/Marilyn_Diptych_by_Andy_Warhol.jpg",
+        "text": "Artwork: Marilyn Diptych. Artist: Andy Warhol. Year: 1962. Medium: Silkscreen on canvas. Description: A silkscreen painting containing fifty images of Marilyn Monroe."
+    },
+    {
+        "id": "artwork_untitled_skull",
+        "type": "artwork",
+        "title": "Untitled (Skull)",
+        "artist": "Jean-Michel Basquiat",
+        "year": 1981,
+        "medium": "Acrylic and oilstick on canvas",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Untitled_Basquiat_Skull.jpg",
+        "text": "Artwork: Untitled (Skull). Artist: Jean-Michel Basquiat. Year: 1981. Medium: Acrylic and oilstick on canvas. Description: A powerful Neo-expressionist work featuring a skull-like head."
+    },
+    {
+        "id": "artwork_irony_of_negro_policeman",
+        "type": "artwork",
+        "title": "Irony of Negro Policeman",
+        "artist": "Jean-Michel Basquiat",
+        "year": 1981,
+        "medium": "Acrylic and oilstick on wood",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Irony_of_Negro_Policeman.jpg",
+        "text": "Artwork: Irony of Negro Policeman. Artist: Jean-Michel Basquiat. Year: 1981. Medium: Acrylic and oilstick on wood. Description: A critical commentary on race and authority."
+    },
+    {
+        "id": "artwork_no_6_violet_green_red",
+        "type": "artwork",
+        "title": "No. 6 (Violet, Green and Red)",
+        "artist": "Mark Rothko",
+        "year": 1951,
+        "medium": "Oil on canvas",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/No._6_%28Violet%2C_Green_and_Red%29.jpg",
+        "text": "Artwork: No. 6 (Violet, Green and Red). Artist: Mark Rothko. Year: 1951. Medium: Oil on canvas. Description: An iconic color field painting expressing profound emotion through color."
+    },
+    {
+        "id": "artwork_orange_red_yellow",
+        "type": "artwork",
+        "title": "Orange, Red, Yellow",
+        "artist": "Mark Rothko",
+        "year": 1961,
+        "medium": "Oil on canvas",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Orange_Red_Yellow.jpg",
+        "text": "Artwork: Orange, Red, Yellow. Artist: Mark Rothko. Year: 1961. Medium: Oil on canvas. Description: A masterpiece of abstraction that sold for a record-breaking price."
+    },
+    {
+        "id": "artwork_a_bigger_splash",
+        "type": "artwork",
+        "title": "A Bigger Splash",
+        "artist": "David Hockney",
+        "year": 1967,
+        "medium": "Acrylic on canvas",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/A_Bigger_Splash.jpg",
+        "text": "Artwork: A Bigger Splash. Artist: David Hockney. Year: 1967. Medium: Acrylic on canvas. Description: A pop art classic depicting a sun-drenched California swimming pool."
+    },
+    {
+        "id": "artwork_portrait_of_an_artist_pool_with_two_figures",
+        "type": "artwork",
+        "title": "Portrait of an Artist (Pool with Two Figures)",
+        "artist": "David Hockney",
+        "year": 1972,
+        "medium": "Acrylic on canvas",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7b/Portrait_of_an_Artist_%28Pool_with_Two_Figures%29.jpg",
+        "text": "Artwork: Portrait of an Artist (Pool with Two Figures). Artist: David Hockney. Year: 1972. Medium: Acrylic on canvas. Description: One of the most famous and expensive works by a living artist."
+    }
+]

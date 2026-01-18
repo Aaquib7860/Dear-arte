@@ -1,0 +1,50 @@
+[
+    {
+        "id": "artist_andy_warhol",
+        "type": "artist",
+        "givenName": "Andy",
+        "familyName": "Warhol",
+        "displayName": "Andy Warhol",
+        "biography": "American artist, director, and producer who was a leading figure in the pop art movement.",
+        "nationality": "American",
+        "birthYear": "1928",
+        "deathYear": "1987",
+        "text": "Artist: Andy Warhol. Biography: American artist, director, and producer who was a leading figure in the pop art movement. Nationality: American. Period: 1928-1987."
+    },
+    {
+        "id": "artist_jean_michel_basquiat",
+        "type": "artist",
+        "givenName": "Jean-Michel",
+        "familyName": "Basquiat",
+        "displayName": "Jean-Michel Basquiat",
+        "biography": "American artist of Haitian and Puerto Rican descent who rose to success as part of the Neo-expressionism movement.",
+        "nationality": "American",
+        "birthYear": "1960",
+        "deathYear": "1988",
+        "text": "Artist: Jean-Michel Basquiat. Biography: American artist of Haitian and Puerto Rican descent who rose to success as part of the Neo-expressionism movement. Nationality: American. Period: 1960-1988."
+    },
+    {
+        "id": "artist_mark_rothko",
+        "type": "artist",
+        "givenName": "Mark",
+        "familyName": "Rothko",
+        "displayName": "Mark Rothko",
+        "biography": "American abstract painter of Latvian Jewish descent, best known for his color field paintings.",
+        "nationality": "American",
+        "birthYear": "1903",
+        "deathYear": "1970",
+        "text": "Artist: Mark Rothko. Biography: American abstract painter of Latvian Jewish descent, best known for his color field paintings. Nationality: American. Period: 1903-1970."
+    },
+    {
+        "id": "artist_david_hockney",
+        "type": "artist",
+        "givenName": "David",
+        "familyName": "Hockney",
+        "displayName": "David Hockney",
+        "biography": "English painter, draughtsman, printmaker, stage designer, and photographer.",
+        "nationality": "English",
+        "birthYear": "1937",
+        "deathYear": "Present",
+        "text": "Artist: David Hockney. Biography: English painter, draughtsman, printmaker, stage designer, and photographer. Nationality: English. Born: 1937."
+    }
+]
